@@ -1043,7 +1043,7 @@
       .header_dropdown_content .site-nav-container .cart-view .table-total #total-view-cart {
         font-weight: 600;
         font-size: 16px;
-        color: #ef683a; }
+        color: #51529e; }
     .header_dropdown_content.site_search .box-triangle {
       right: 105px; }
     .header_dropdown_content.site_search .wpo-wrapper-search {
@@ -1522,7 +1522,8 @@
       line-height: 40px;
       text-align: center;
       display: inline-block;
-      background: #ef683a;
+      background: #51529e;  
+      /*  */
       border: 1px solid #dddddd;
       border-radius: 50%;
       -webkit-transition: all 0.6s;
@@ -1922,7 +1923,7 @@
     font-weight: normal;
     z-index: 9;
     color: #fff;
-    background: #ef683a; }
+    background: #51529e; }
   
   .pro-loop .product-img .sold-out {
     font-size: 12px;
@@ -2198,7 +2199,7 @@
         font-size: 17px;
         opacity: .92;
         font-weight: bold;
-        color: #ef683a; }
+        color: #51529e; }
       .product-detail-main .product-price .pro-sale {
         display: inline-block;
         padding: 5px 15px;
@@ -3443,7 +3444,7 @@
         .wamper_order_cart .order_block .order_total_price p span {
           font-weight: bold;
           float: right;
-          color: #ef683a;
+          color: #51529e;
           font-size: 24px; }
     .wamper_order_cart .order_block .order_cart_action {
       border-top: 1px dotted #dfe0e1;
@@ -5332,13 +5333,13 @@
       width: 70%; } }
   
   @media (max-width: 1199px) and (min-width: 992px) {
-    > [class*='action-'] {
+    [class*='action-'] {
       margin-left: 5px; }
-      > [class*='action-'] span.ico_action {
+        [class*='action-'] span.ico_action {
         width: 32px;
         height: 32px;
         line-height: 32px; }
-        > [class*='action-'] span.ico_action svg {
+        [class*='action-'] span.ico_action svg {
           height: 30px;
           width: 12px; }
     .action-cart .cart-menu .count-holder {
@@ -5759,7 +5760,7 @@
         line-height: 40px;
         text-align: center;
         display: inline-block;
-        background: #ef683a;
+        background: #51529e;
         border: 1px solid #dddddd;
         border-radius: 50%;
         -webkit-transition: all 0.6s;
@@ -6253,7 +6254,7 @@
     line-height: 40px;
     text-align: center;
     display: inline-block;
-    background: #ef683a;
+    background: #51529e;
     border: 1px solid #dddddd;
     border-radius: 50%;
     -webkit-transition: all 0.6s;
@@ -6282,11 +6283,11 @@
       right: 20px; }
   
   .wrapper-home-latestblogs .review-item .article-item--post .post-body p {
-    color: #ef683a;
+    color: #51529e;
     text-align: center; }
   
   .section.section-collection span.view-more a {
-    color: #ef683a; }
+    color: #51529e; }
   
   @media (min-width: 768px) {
     .banner_slider div:first-child {
@@ -6337,7 +6338,7 @@
     -webkit-line-clamp: 3; }
   
   #homeCarousel-banner .owl-controls .owl-nav div:hover, .wrapper-home-latestblogs .owl-controls .owl-nav div:hover {
-    background: #ef501a !important; }
+    background: #419ceb !important; }
   
   .section-collection h2 {
     margin-bottom: 18px !important;
@@ -6359,7 +6360,7 @@
       max-height: 110px; } }
   
   .starbap-star .fa {
-    color: #ef683a !important; }
+    color: #51529e !important; }
   
   #buy_now {
     margin-top: 10px;
@@ -6385,7 +6386,7 @@
     right: 0;
     font-size: 12px;
     font-weight: normal;
-    color: #ef683a; }
+    color: #51529e; }
   
   .product-color-select {
     text-align: center;
@@ -6458,7 +6459,7 @@
   
   .pro-loop .product-img .sold-out,
   .starbap-rev-widg__summary .starbap-rev-total-point {
-    color: #ef683a !important; }
+    color: #51529e !important; }
   
   .wrapper-home-latestblogs .article-item--post .post-image {
     max-height: initial; }
@@ -6488,7 +6489,7 @@
   
   .product_gift_label.combo {
     color: #fff;
-    background: #ef683a;
+    background: #51529e;
     position: absolute;
     left: 0;
     bottom: 0;
@@ -6752,7 +6753,7 @@
   .main_content_bottom .onAppWishList_remove {
     width: 25px;
     height: 25px;
-    background: #ef683a;
+    background: #51529e;
     text-align: center;
     line-height: 25px;
     border-radius: 50%;
@@ -6767,7 +6768,7 @@
     text-overflow: ellipsis; }
   
   .wish-info.product-info .price-infor {
-    color: #ef683a; }
+    color: #51529e; }
   
   .d-flex-www {
     display: flex;
